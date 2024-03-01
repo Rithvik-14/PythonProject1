@@ -1,0 +1,7 @@
+add new player
+latecall
+make soup
+changed readfile in function
+clean the code
+changing from GUI
+use streamline module
